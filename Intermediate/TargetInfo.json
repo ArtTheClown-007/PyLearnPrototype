@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "PyLearnPrototype",
+			"Path": "D:\\UE_Projects\\PyLearnPrototype\\Source\\PyLearnPrototype.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "PyLearnPrototypeEditor",
+			"Path": "D:\\UE_Projects\\PyLearnPrototype\\Source\\PyLearnPrototypeEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

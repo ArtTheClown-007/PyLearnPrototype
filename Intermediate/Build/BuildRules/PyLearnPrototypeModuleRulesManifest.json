@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\UE_Projects\\PyLearnPrototype\\Source\\PyLearnPrototype\\PyLearnPrototype.Build.cs",
+		"D:\\UE_Projects\\PyLearnPrototype\\Source\\PyLearnPrototype.Target.cs",
+		"D:\\UE_Projects\\PyLearnPrototype\\Source\\PyLearnPrototypeEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}
