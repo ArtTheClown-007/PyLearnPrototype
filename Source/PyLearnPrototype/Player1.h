@@ -49,4 +49,9 @@ public:
 	void MoveRight(float Value);
 	void Turn(float Value);
 	void LookUp(float Value);
+
+
+
+
+	void SwitchLevel(FName LevelName);
 };

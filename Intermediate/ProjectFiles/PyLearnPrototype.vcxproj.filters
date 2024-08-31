@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\PyLearnPrototype.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{4BAC8813-9CB1-4D4E-9388-F4490652F7D9}</UniqueIdentifier>
+      <UniqueIdentifier>{3BD5580F-A01C-42FE-BF3E-A99F9F32EF2C}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\PyLearnPrototype.Target.cs">
       <Filter>Source</Filter>
@@ -11,8 +11,10 @@
     <None Include="..\..\Source\PyLearnPrototypeEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.gitattributes" />
+    <None Include="..\..\.gitignore" />
     <Filter Include="Config">
-      <UniqueIdentifier>{8EC4663B-8AC7-4FFE-B5C5-D9E4B11EEE96}</UniqueIdentifier>
+      <UniqueIdentifier>{27162869-21DA-42B4-84E1-E779D392694A}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -27,7 +29,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\PyLearnPrototype">
-      <UniqueIdentifier>{F559BD59-5C17-44B0-A367-A16D1C6B95C4}</UniqueIdentifier>
+      <UniqueIdentifier>{11BEF3D4-8649-44B5-97F6-B3CD160A40A3}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\PyLearnPrototype\FloatingPlatform.cpp">
       <Filter>Source\PyLearnPrototype</Filter>
@@ -39,6 +41,12 @@
       <Filter>Source\PyLearnPrototype</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\PyLearnPrototype\FloorSwitch.h">
+      <Filter>Source\PyLearnPrototype</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PyLearnPrototype\LevelTransitionvolume.cpp">
+      <Filter>Source\PyLearnPrototype</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PyLearnPrototype\LevelTransitionvolume.h">
       <Filter>Source\PyLearnPrototype</Filter>
     </ClInclude>
     <ClCompile Include="..\..\Source\PyLearnPrototype\MainPlayerController.cpp">
